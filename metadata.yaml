@@ -6,6 +6,9 @@ contributor:
     alias: Kluga, Richard Paul
     gutenberg_agent_id: '56288'
     url: http://www.gutenberg.org/2009/agents/56288
+covers:
+- cover_type: archival
+  image_path: 71800-h/images/cover.jpg
 creator:
   author:
     agent_name: Rothman, Milton A.
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52699
     wikipedia: https://en.wikipedia.org/wiki/Milton_A._Rothman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71800#Formula-for-murder
 gutenberg_issued: '2023-10-04'
 identifiers:
   gutenberg: '71800'
